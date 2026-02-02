@@ -50,7 +50,3 @@ python invisible_cloak.py
 * AR/VR demonstrations
 * College mini-projects
 * Fun visual effects
-
-
-
-Just say the word 😄
